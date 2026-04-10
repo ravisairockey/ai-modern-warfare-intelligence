@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "title": "Defense Industry AI Companies Database",
+    "description": "Comprehensive profiles of established primes and emerging disruptors in military AI",
+    "version": "2026.04.11",
+    "lastUpdated": "2026-04-11T04:23:00Z"
+  },
+  "establishedPrimes": [
+    {
+      "id": "lockheed-martin",
+      "name": "Lockheed Martin",
+      "type": "defense-prime",
+      "focusAreas": ["F-35 AI Factory", "Flying Data Hub", "Autonomous Systems"],
+      "aiMaturity": 5,
+      "keyPlatforms": ["F-35 Lightning II"],
+      "headquarters": "Bethesda, Maryland, USA",
+      "marketCap": "130B USD",
+      "description": "World's largest defense contractor embedding AI and autonomous capabilities into world-leading platforms",
+      "technologies": ["AI Factory", "Distributed Sensing", "Flying Data Processing"]
+    },
+    {
+      "id": "northrop-grumman",
+      "name": "Northrop Grumman",
+      "type": "defense-prime",
+      "focusAreas": ["IBCS", "Battle Command", "C2 Architecture"],
+      "aiMaturity": 5,
+      "keyPlatforms": ["Integrated Battle Command System"],
+      "headquarters": "Falls Church, Virginia, USA",
+      "marketCap": "75B USD",
+      "description": "Developing command-and-control systems essential for autonomous warfare with open architecture",
+      "technologies": ["Command & Control", "Network Systems", "Sensor Integration"]
+    },
+    {
+      "id": "rtx-raytheon",
+      "name": "RTX / Raytheon",
+      "type": "defense-prime",
+      "focusAreas": ["Smart Missiles", "Sensors", "Precision Networks"],
+      "aiMaturity": 5,
+      "keyPlatforms": ["Smart Munitions", "Sensor Networks"],
+      "headquarters": "Arlington, Virginia, USA",
+      "marketCap": "150B USD",
+      "description": "Building the nervous system of modern warfare with sensors, networks, and smart munitions",
+      "technologies": ["Smart Munitions", "Sensor Networks", "Precision Strike"]
+    },
+    {
+      "id": "bae-systems",
+      "name": "BAE Systems",
+      "type": "defense-prime",
+      "focusAreas": ["Cyber & Electronic Warfare", "Advanced EW Solutions"],
+      "aiMaturity": 4,
+      "keyPlatforms": ["Cyber Security Solutions", "EW Systems"],
+      "headquarters": "London, UK",
+      "marketCap": "25B USD",
+      "description": "Multinational defense company working on AI, cybersecurity, and electronic warfare",
+      "technologies": ["Cyber Security", "Electronic Warfare", "Data Analysis"]
+    },
+    {
+      "id": "l3harris",
+      "name": "L3Harris",
+      "type": "defense-prime",
+      "focusAreas": ["AI Avionics", "Counter-Drone", "Counter-UAS Systems"],
+      "aiMaturity": 4,
+      "keyPlatforms": ["Counter-UAS", "AI Avionics"],
+      "headquarters": "Melbourne, Florida, USA",
+      "marketCap": "55B USD",
+      "description": "Advanced defense electronics and AI avionics including counter-drone capabilities",
+      "technologies": ["AI Avionics", "Counter-UAS", "Electronic Systems"]
+    }
+  ],
+  "nextGenDisruptors": [
+    {
+      "id": "anduril",
+      "name": "Anduril Industries",
+      "type": "disruptor",
+      "valuation": 30500000000,
+      "valuationCurrency": "USD",
+      "focusAreas": ["Autonomous Drones", "C2", "Maritime"],
+      "specialty": "Lattice OS - Autonomous sensemaking and command & control platform",
+      "keyWins": [
+        {
+          "date": "2026-03-16",
+          "description": "$20B Army counter-drone contract - Lattice selected as C2 backbone"
+        },
+        {
+          "date": "2025-10-31",
+          "description": "YFQ-44A maiden flight - Collaborative Combat Aircraft"
+        },
+        {
+          "date": "2025-09-10",
+          "description": "A$1.7B Ghost Shark fleet commitment for Australia"
+        },
+        {
+          "date": "2025-10-08",
+          "description": "$250M Roadrunner recoverable interceptor contract"
+        }
+      ],
+      "headquarters": "Costa Mesa, California, USA",
+      "technologies": ["Lattice OS", "YFQ-44A CCA", "Roadrunner", "Ghost Shark"],
+      "keyPersonnel": ["Brian Schimpf - CEO", "Trae Stephens - Co-Founder"]
+    },
+    {
+      "id": "helsing",
+      "name": "Helsing",
+      "type": "disruptor",
+      "valuation": 12000000000,
+      "valuationCurrency": "EUR",
+      "focusAreas": ["Battlefield AI", "AI Agent Centaur", "HX-2 Drones"],
+      "specialty": "European Battlefield AI with AI agents (Centaur) and drone production",
+      "keyWins": [
+        {
+          "date": "2025-06-11",
+          "description": "Centaur AI agent flew in Gripen E with Saab"
+        },
+        {
+          "date": "2025",
+          "description": "Announced 6,000 HX-2 strike drone production for Ukraine"
+        }
+      ],
+      "headquarters": "Munich, Germany",
+      "technologies": ["AI Agent Centaur", "HX-2 Strike Drones", "VLA Models"],
+      "partnerships": ["Saab", "Mistral AI"]
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir Technologies",
+      "type": "disruptor",
+      "ticker": "PLTR",
+      "focusAreas": ["AI Targeting", "Intelligence Fusion", "Maven Smart System"],
+      "specialty": "AI-enabled ISR/decision tools for rapid target identification and battle damage assessment",
+      "keyWins": [
+        {
+          "date": "2025-03-25",
+          "description": "NATO acquires Maven Smart System for Allied Command Operations"
+        },
+        {
+          "date": "2025-05-30",
+          "description": "Project Maven contract ceiling raised to $1.3B through 2029"
+        }
+      ],
+      "headquarters": "Denver, Colorado, USA",
+      "technologies": ["Maven Smart System", "NATO MSS", "Intelligence Fusion"],
+      "contracts": ["Maven ceiling $1.3B", "NATO MSS"]
+    },
+    {
+      "id": "shield-ai",
+      "name": "Shield AI",
+      "type": "disruptor",
+      "valuation": 2800000000,
+      "valuationCurrency": "USD",
+      "focusAreas": ["AI Pilots", "GPS-Denied Operations", "Hivemind Autonomy"],
+      "specialty": "AI pilots for aircraft without human intervention in GPS-denied environments",
+      "keyWins": [
+        {
+          "date": "2026-02-13",
+          "description": "Selected as mission autonomy provider for USAF CCA program"
+        },
+        {
+          "date": "2026-02",
+          "description": "Hivemind integrated on Anduril Fury (YFQ-44A)"
+        }
+      ],
+      "headquarters": "San Diego, California, USA",
+      "technologies": ["Hivemind", "GPS-Denied", "CCA Mission AI"],
+      "keyPersonnel": ["Brandon Tseng - President", "Ryan Tseng - CEO"]
+    },
+    {
+      "id": "saronic",
+      "name": "Saronic Technologies",
+      "type": "disruptor",
+      "valuation": 4000000000,
+      "valuationCurrency": "USD",
+      "focusAreas": ["Autonomous Warships", "Maritime Autonomy"],
+      "specialty": "Uncrewed surface vessels for naval missions enabling maritime security",
+      "headquarters": "Austin, Texas, USA",
+      "technologies": ["Maritime Autonomy", "Naval Vessels", "Surface Ops"]
+    },
+    {
+      "id": "chaos-industries",
+      "name": "Chaos Industries",
+      "type": "disruptor",
+      "valuation": 4500000000,
+      "valuationCurrency": "USD",
+      "focusAreas": ["Electronic Warfare AI", "Cognitive EW Systems"],
+      "specialty": "AI-driven electronic warfare and spectrum dominance",
+      "headquarters": "Los Angeles, California, USA",
+      "technologies": ["EW Cognitive Systems", "Spectrum AI", "RF Intelligence"]
+    }
+  ],
+  "frontierAILabs": [
+    {
+      "name": "OpenAI",
+      "doDContract": "200M USD OTA",
+      "focus": "Agentic AI workflows",
+      "status": "DoD Prototype Deals"
+    },
+    {
+      "name": "Anthropic",
+      "doDContract": "200M ceiling",
+      "focus": "Agentic AI workflows",
+      "status": "DoD Frontier AI Awards"
+    },
+    {
+      "name": "xAI",
+      "doDContract": "200M ceiling",
+      "focus": "Agentic AI workflows",
+      "status": "CDAO Framework"
+    },
+    {
+      "name": "Google",
+      "doDContract": "200M ceiling",
+      "focus": "Agentic AI + GenAI.mil",
+      "status": "DoD CDAO + Pentagon"
+    }
+  ]
+}

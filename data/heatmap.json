@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "title": "AI Warfare Technology Maturity Heatmap",
+    "description": "Capability readiness assessment across key AI warfare domains",
+    "version": "2026.04.11",
+    "lastUpdated": "2026-04-11T04:25:00Z",
+    "maturityKey": {
+      "4": "Deployed & Scaling",
+      "3": "Field Trials / Limited Deployment",
+      "2": "Prototypes",
+      "1": "R&D / Early",
+      "0": "Concept"
+    }
+  },
+  "capabilities": [
+    {
+      "name": "AI Targeting / ISR Fusion",
+      "maturity": 4,
+      "description": "Compresses detection-to-action time; triage plus correlation plus speed",
+      "companies": ["Palantir (Maven)"],
+      "status": "Deployed & Scaling",
+      "symbol": "████"
+    },
+    {
+      "name": "Counter-Drone Kill Chain",
+      "maturity": 4,
+      "description": "Detect → ID → defeat; AI reduces false alarms and shortens response",
+      "companies": ["Anduril (Lattice, Roadrunner, I-CsUAS)"],
+      "status": "Deployed & Scaling",
+      "symbol": "████"
+    },
+    {
+      "name": "Collaborative Combat Aircraft",
+      "maturity": 3,
+      "description": "More mass, more sensors, crewed-uncrewed teaming tactics",
+      "companies": ["Anduril", "General Atomics", "Shield AI"],
+      "status": "Field Trials",
+      "symbol": "███▢"
+    },
+    {
+      "name": "GPS-Denied Navigation",
+      "maturity": 3,
+      "description": "EW breaks GPS; autonomy survives comms loss via visual navigation",
+      "companies": ["Auterion", "Shield AI"],
+      "status": "Field Trials",
+      "symbol": "███▢"
+    },
+    {
+      "name": "Directed Energy Autonomy",
+      "maturity": 3,
+      "description": "Microwave magazine depth; autonomy cues directed energy fast",
+      "companies": ["Epirus + GDLS", "Kodiak AI"],
+      "status": "Prototypes / Trials",
+      "symbol": "███▢"
+    },
+    {
+      "name": "Undersea Autonomy Fleets",
+      "maturity": 3,
+      "description": "Persistent ISR/strike undersea without crews - stealth mass",
+      "companies": ["Anduril Australia (Ghost Shark)"],
+      "status": "Prototypes / Trials",
+      "symbol": "███▢"
+    },
+    {
+      "name": "Mass AI Strike Drones",
+      "maturity": 3,
+      "description": "Scale plus onboard AI to resist EW, reduce operator load",
+      "companies": ["Helsing (HX-2)"],
+      "status": "Field Trials",
+      "symbol": "███▢"
+    },
+    {
+      "name": "Frontier GenAI Agentic",
+      "maturity": 2,
+      "description": "Planning/analysis plus bounded actions across admin/cyber/data",
+      "companies": ["OpenAI", "Google", "xAI", "Anthropic"],
+      "status": "Prototypes",
+      "symbol": "██▢▢"
+    },
+    {
+      "name": "Air-Combat AI Agents",
+      "maturity": 2,
+      "description": "Maneuver recommendations pushes autonomy into high-speed contested loops",
+      "companies": ["Saab + Helsing (Centaur)"],
+      "status": "Emerging",
+      "symbol": "██▢▢"
+    },
+    {
+      "name": "Synthetic Media Detection",
+      "maturity": 2,
+      "description": "Deepfake verification - operational info warfare defense",
+      "companies": ["DIU + Hive"],
+      "status": "R&D",
+      "symbol": "██▢▢"
+    },
+    {
+      "name": "Hypersonic Weapons AI",
+      "maturity": 1,
+      "description": "Mach 5 plus systems with AI guidance, thermal management",
+      "companies": ["Lockheed Martin", "RTX", "Northrop Grumman"],
+      "status": "In Development",
+      "symbol": "█▢▢▢"
+    },
+    {
+      "name": "Lethal Autonomous Weapons (LAWS)",
+      "maturity": 0,
+      "description": "Select and engage without human intervention - legally constrained",
+      "companies": ["Israel (Harop)"],
+      "status": "Governance Debate",
+      "symbol": "▢▢▢▢"
+    }
+  ],
+  "summary": {
+    "deployedScaling": 2,
+    "fieldTrials": 5,
+    "prototypes": 3,
+    "earlyRD": 1,
+    "governanceDebate": 1
+  }
+}

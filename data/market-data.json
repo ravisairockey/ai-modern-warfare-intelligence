@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "title": "AI Modern Warfare Market Intelligence Dataset",
+    "description": "Comprehensive structured data on AI warfare market metrics, valuations, and trends",
+    "version": "2026.04.11",
+    "lastUpdated": "2026-04-11T04:22:00Z",
+    "source": "Defense Technology Intelligence Hub",
+    "license": "MIT"
+  },
+  "marketOverview": {
+    "globalAIMilitaryMarket": {
+      "value2024": 9310000000,
+      "currency": "USD",
+      "cagr2025_2030": 13.0,
+      "projected2030": 19300000000
+    },
+    "globalDefenseSpend": {
+      "value2024": 2700000000000,
+      "currency": "USD"
+    },
+    "defenseTechVC": {
+      "raised2025": 49100000000,
+      "raised2024": 27200000000,
+      "yoyGrowth": 80.5
+    },
+    "usDoDAIBudget": {
+      "fy24_25": 1800000000,
+      "currency": "USD"
+    },
+    "counterDroneMarket": {
+      "projected2030": 20300000000,
+      "currency": "USD"
+    },
+    "totalDefenseRevenues": {
+      "value2024": 661000000000,
+      "currency": "USD"
+    }
+  },
+  "growthDrivers": [
+    "Battlefield validation in Ukraine",
+    "Rising global defense budgets",
+    "Shift in AI ethics among venture capital",
+    "Autonomous system maturation",
+    "Sensor-to-shooter pipeline standardization",
+    "Counter-drone urgency",
+    "GPS-denied warfare requirements"
+  ],
+  "marketSegments": {
+    "autonomousDronesUAV": {
+      "growthRate": 18.2,
+      "keyPlayers": ["Anduril", "Shield AI", "Helsing", "Auterion"]
+    },
+    "aiTargetingSystems": {
+      "growthRate": 15.5,
+      "keyPlayers": ["Palantir", "Meta", "Alphabet"]
+    },
+    "counterUASSystems": {
+      "growthRate": 22.1,
+      "keyPlayers": ["Anduril", "Epirus", "Dedrone", "Fortem"]
+    },
+    "collaborativeCombatAircraft": {
+      "growthRate": 25.3,
+      "keyPlayers": ["Anduril", "General Atomics", "Shield AI"]
+    },
+    "maritimeAutonomy": {
+      "growthRate": 12.8,
+      "keyPlayers": ["Anduril Australia", "Saronic Technologies"]
+    },
+    "frontierGenAI": {
+      "growthRate": 35.0,
+      "keyPlayers": ["OpenAI", "Anthropic", "xAI", "Google DeepMind"]
+    }
+  }
+}
