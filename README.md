@@ -231,7 +231,7 @@ Currently scaling fastest:
 ### View Intelligence Dashboard
 ```bash
 # Clone repository
-git clone https://github.com/your-username/ai-modern-warfare-intelligence.git
+git clone https://github.com/ravisairockey/ai-modern-warfare-intelligence.git
 
 # Open dashboard
 open index.html
@@ -278,7 +278,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/ai-modern-warfare-intelligence&type=Date)](https://star-history.com)
+[![Star History Chart](https://api.star-history.com/svg?repos=ravisairockey/ai-modern-warfare-intelligence&type=Date)](https://star-history.com)
 
 ---
 
